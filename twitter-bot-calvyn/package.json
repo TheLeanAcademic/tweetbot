@@ -1,0 +1,21 @@
+{
+  "name": "twitter-bot-calvyn",
+  "version": "0.0.1",
+  "description": "A bot to manage a twitter account",
+  "main": "bot.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "Matthew C. Higgs",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
